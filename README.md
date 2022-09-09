@@ -10,9 +10,8 @@ Este proyecto requiere la versión de node `v14.18.2`
 ## Cómo correr el proyecto :runner:
 Para poder correr el backend y que todo funcione desde localhost:5000 se requieren los siguientes pasos: 
 1. Clonar o descargar el repositorio
-2. Hacer `cd` al directorio /server
-3. Correr el comando `npm install` en la terminal para instalar todas las dependencias necesarias
-4. Correr `npm start`, esto subirá el backend y ya se podrá tener acceso a la base de datos
+2. Correr el comando `npm install` en la terminal para instalar todas las dependencias necesarias
+3. Correr `npm start`, esto subirá el backend y ya se podrá tener acceso a la base de datos
 
 ## Detalles importantes
 Las herramientas que fueron utilizadas para este proyecto fueron:
